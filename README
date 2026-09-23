@@ -6,11 +6,16 @@ The board uses an **LM7805 linear regulator** to generate the 5V rail and an **A
 
 ## PCB 3D View
 
-![PCB 3D View](pcb-3d-view.png)
+<p align="center">
+  <img src="photo-name.png" alt="Description" width="700">
+</p>
 
 ## PCB Layout
 
-![PCB Layout](pcb-layout.png)
+<p align="center">
+  <img src="pcb-3d-view.png" width="45%">
+  <img src="pcb-layout.png" width="45%">
+</p>
 
 ---
 
